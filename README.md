@@ -1,10 +1,8 @@
 # Trading Bot for Binance Futures Testnet (USDT-M)
 
-<div align="center">
-  <video src="https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>/raw/main/DemoTest.mp4" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
+## Demo
+
+[![Demo](screenshot.png)](./DemoTest.mp4)
 
 This project is a command-line trading bot built in Python for the Binance Futures Testnet (USDT-M). The bot allows users to place both MARKET and LIMIT orders through a simple CLI interface while handling authentication, request signing, input validation, precision management, and logging automatically.
 
