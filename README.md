@@ -1,10 +1,10 @@
 # Trading Bot for Binance Futures Testnet (USDT-M)
 
-## Demo
+## Demo Video
 
-<a href="./DemoTest.mp4">
-  <img src="./screenshot.png" alt="Demo Video">
-</a>
+https://github.com/user-attachments/assets/197227f5-3c1f-431b-9c3a-421007025e83
+
+# Trading Bot for Binance Futures Testnet (USDT-M)
 
 Click the image above to watch the demo.
 
