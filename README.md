@@ -2,7 +2,7 @@
 
 ## Demo
 
-[![Demo Screenshot](screenshot.png)](https://github.com/USERNAME/REPO/raw/main/DemoTest.mp4)
+[![Demo Screenshot](screenshot.png)](https://github.com/itsakash-real/Trading-Bot-on-Binance-Futures-Testnet/raw/main/DemoTest.mp4)
 
 Click the image above to watch the demo.
 
