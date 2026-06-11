@@ -1,7 +1,7 @@
 # Trading Bot for Binance Futures Testnet (USDT-M)
 
 <div align="center">
-  <video src="DemoTest.mp4" width="100%" controls>
+  <video src="https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>/raw/main/DemoTest.mp4" width="100%" controls>
     Your browser does not support the video tag.
   </video>
 </div>
