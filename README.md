@@ -2,7 +2,9 @@
 
 ## Demo
 
-[![Demo Screenshot](screenshot.png)](./DemoTest.mp4)
+<a href="./DemoTest.mp4">
+  <img src="./screenshot.png" alt="Demo Video">
+</a>
 
 Click the image above to watch the demo.
 
