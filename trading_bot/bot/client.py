@@ -50,7 +50,11 @@ class BinanceClient:
         self.logger.info("REQUEST: %s %s | params=%s", method, url, params)
 
         resp = requests.request(method, url, params=params, headers=headers)
-        self.logger.info("RESPONSE: %s | body=%s", resp.status_code, resp.text)
+        body = resp.text
+        if len(body) > 1000:
+            self.logger.info("RESPONSE: %s | body=%s... (%s chars)", resp.status_code, body[:300], len(body))
+        else:
+            self.logger.info("RESPONSE: %s | body=%s", resp.status_code, body)
 
         resp.raise_for_status()
         return resp.json()
